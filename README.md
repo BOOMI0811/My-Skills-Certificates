@@ -1,9 +1,10 @@
 # 📚 My Course Certificates - Boomisha S D
 
-| Provider | Course | Certificate |
-| :--- | :--- | :--- |
-| Coding Ninjas | Using Netflix Data to Master Power BI | [View PDF](./Coding-Ninjas-PowerBI.pdf) |
-| MATLAB | Machine Learning Onramp | [View PDF](./MATLAB-ML-Onramp.pdf) |
-| NPTEL | Internet of Things | [View PDF](./NPTEL-IoT.pdf) |
+### 1. Coding Ninjas - Power BI
+![Coding Ninjas Certificate](./Coding-Ninjas-PowerBI.jpg)
 
-All certificates verified.
+### 2. MATLAB - Machine Learning Onramp
+![MATLAB Certificate](./MATLAB-ML-Onramp.jpg)
+
+### 3. NPTEL - Internet of Things
+![NPTEL Certificate](./NPTEL-IoT.jpg)
